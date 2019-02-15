@@ -1,8 +1,14 @@
-h1{
+.header{
   background-color: maroon;
-  width: 100%
-  padding:10px;
+  width: 100%;
+  padding:5px;
 }
 body{
   background-color: lightblue;
+  margin: 0;
+  padding: 0;
+}
+.border{
+  margin-left: 250px;
+  margin-right: 250px;
 }
