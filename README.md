@@ -12,7 +12,7 @@ Currently there are no issues with the app but if yoy come across any just feel 
 ## Technologies Used
 The app has been made by use of html,css and javascript.
 ## Support and contact details
-{if you run into any issues just contact me via email @iansani259@gmail.com.You may also make contributions to the code.
+If you run into any issues just contact me via email @iansani259@gmail.com.You may also make contributions to the code.
 ## Behaviour Driven Development
 1. When a user inputs 0 as a value for the side of the triangle,the app will output not a triangle.
 2. When a user inputs values such as 9,4,3 that cannot form a triangle,the app will output not a triangle to inform them.
