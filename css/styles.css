@@ -15,7 +15,7 @@ body{
   border: 2px solid #ad235c;
   margin-top: 150px;
   width: 44%;
-  background-image: url("/home/ain/Desktop/triangle/js/triangle.webp");
+  background-image: url("../js/triangle.webp");
   height: 301px;
   border-radius: 15px;
   background-color:#20B2AA;
